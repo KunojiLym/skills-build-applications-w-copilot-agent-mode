@@ -25,7 +25,7 @@ SECRET_KEY = "django-insecure-($$5ubib8=2vmd3rp%(@7(edvj-%yle@d^wg%@=pnd^hbvg)ls
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['localhost', '127.0.0.1', '[REPLACE-WITH-CODESPACE-URL]']
+ALLOWED_HOSTS = ['localhost', '127.0.0.1', 'psychic-robot-v479v7q6vhvg5-8000.app.github.dev']
 
 
 # Application definition
